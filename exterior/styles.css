@@ -1,0 +1,22 @@
+body{
+    background-color: #3d3d3d;
+    color: #fffefef1;
+}
+
+a{
+  color: lightblue;
+}
+
+a.hover{
+  color: blue;
+}
+
+.small{
+  font-size: 10px;
+  margin: 0;
+  padding-top: 0;
+}
+
+footer{
+  margin: 25px
+}
